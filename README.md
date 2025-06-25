@@ -54,7 +54,7 @@ This assignment is structured into three main parts:
 
 - **Tool:** Streamlit
 - **App:** Upload handwritten digit → Predict using trained model
-- ✅ Live demo link: [Click here to launch app](https://your-streamlit-url.streamlit.app)
+- ✅ Live demo link: [Click here to launch app](https://a1-ml-assignment-week-3-ptwdiexxhjpxcxh34k4zmg.streamlit.app/)
 - 📄 File: `mnist_app.py`
 - 📸 Screenshot included in the `screenshots/` folder
 
